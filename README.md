@@ -1,1 +1,1 @@
-# super-mario-game
+# super-mario
